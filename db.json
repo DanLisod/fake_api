@@ -1,5 +1,10 @@
 {
-  "positive_tag":"donuts_tester",
+  "positive_tag": [
+    {
+	"id": 1,
+	"tag" : "donuts_tester"
+    }
+  ],
   "posts": [
     {
       "id": 1,
