@@ -1,14 +1,8 @@
 {
-  "positive_tag": [
-    {
-	"id": 1,
-	"tag" : "donuts_tester"
-    }
-  ],
-  "posts": [
+  "positive_tags": [
     {
       "id": 1,
-      "title": "hello"
+      "tag": "donuts_tester"
     }
   ],
   "profile": {
